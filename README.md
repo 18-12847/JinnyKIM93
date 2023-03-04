@@ -20,23 +20,22 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">  -->
 
- 
-
    <br/>
 
    <br/>
-
- 
 
 #### 📚: Study log
  
 
   <br/>
 
-  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinnyKIM93&layout=compact)
 <!-- [![Notion GitHub stats](https://notion-readme-stats.vercel.app/api?name=Jinnyim&color=dark)]
 </div> -->
 
+ #### 📞call
+</a>
+<a href="https://jinikim722@gmail.com">
+    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://jinikim722@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   
