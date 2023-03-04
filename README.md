@@ -35,7 +35,7 @@
 
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinnyKIM93&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinnyKIM93&layout=compact)
 <!-- [![Notion GitHub stats](https://notion-readme-stats.vercel.app/api?name=Jinnyim&color=dark)]
 </div> -->
 
