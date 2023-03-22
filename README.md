@@ -33,9 +33,4 @@
 <!-- [![Notion GitHub stats](https://notion-readme-stats.vercel.app/api?name=Jinnyim&color=dark)]
 </div> -->
 
- #### 📞call
-</a>
-<a href="https://jinikim722@gmail.com">
-    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://jinikim722@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   
